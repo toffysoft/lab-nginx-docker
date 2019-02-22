@@ -1,0 +1,20 @@
+{
+  "name": "lab-nginx-docker",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "docker-compose up -d",
+    "stop": "docker-compose down"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/apiwat.r.janapaisarn/lab-nginx-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/apiwat.r.janapaisarn/lab-nginx-docker/issues"
+  },
+  "homepage": "https://gitlab.com/apiwat.r.janapaisarn/lab-nginx-docker#readme",
+  "dependencies": {}
+}
